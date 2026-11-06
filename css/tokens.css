@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+  --color-olive: #535c43;
+  --color-olive-deep: #3b4230;
+  --color-sage: #7a8466;
+  --color-cream: #f2efe6;
+  --color-clay: #b08a74;
+  --color-line: rgb(59 66 48 / 18%);
+
+  --font-light: "Jost", "Arial", sans-serif;
+  --font-regular: "Jost", "Arial", sans-serif;
+  --font-medium: "Jost", "Arial", sans-serif;
+
+  --content-width: 76rem;
+  --page-gutter: clamp(1.25rem, 5vw, 5rem);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
